@@ -2,3 +2,4 @@
 
 
 Scheduling your work day with Javascript!
+each timeblock is by the hour and you can save your items!
