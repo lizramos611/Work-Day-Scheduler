@@ -64,7 +64,7 @@ saveButton3.addEventListener('click', function () {
     let userInput3 = document.querySelector('#user-form-3').value;
     localStorage.setItem('userInput3', userInput3);
 })
-let.addEventListener('click', function () {
+saveButton4.addEventListener('click', function () {
     let userInput4 = document.querySelector('#user-form-4').value;
     localStorage.setItem('userInput4', userInput4);
 })
